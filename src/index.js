@@ -43,7 +43,7 @@ const data = {
     },
     {
       name: "tiktok",
-      url: "hhttps://www.tiktok.com/@andresbadillo.co",
+      url: "https://www.tiktok.com/@andresbadillo.co",
       color: '#264653',
       viewBox: '0 0 448 512',
       username: "Raul Andres Badillo Jaimes",
